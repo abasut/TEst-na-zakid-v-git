@@ -1,0 +1,14 @@
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\bin\Debug\net10.0\TEst na zakid v git.exe
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\bin\Debug\net10.0\TEst na zakid v git.deps.json
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\bin\Debug\net10.0\TEst na zakid v git.runtimeconfig.json
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\bin\Debug\net10.0\TEst na zakid v git.dll
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\bin\Debug\net10.0\TEst na zakid v git.pdb
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\obj\Debug\net10.0\TEst na zakid v git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\obj\Debug\net10.0\TEst na zakid v git.AssemblyInfoInputs.cache
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\obj\Debug\net10.0\TEst na zakid v git.AssemblyInfo.cs
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\obj\Debug\net10.0\TEst na zakid v git.csproj.CoreCompileInputs.cache
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\obj\Debug\net10.0\TEst na zakid v git.dll
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\obj\Debug\net10.0\refint\TEst na zakid v git.dll
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\obj\Debug\net10.0\TEst na zakid v git.pdb
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\obj\Debug\net10.0\TEst na zakid v git.genruntimeconfig.cache
+C:\Users\a2143\OneDrive\Документы\Файлы Максимки\Test_Project\TEst na zakid v git\TEst na zakid v git\obj\Debug\net10.0\ref\TEst na zakid v git.dll
