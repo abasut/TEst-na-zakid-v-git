@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.Write("Сколько чисел Фибоначчи вывести? ");
+        Console.Write("Сколько раз ты мыл хуй своему отцу? ");
 
         // Читаем ввод пользователя
         if (!int.TryParse(Console.ReadLine(), out int n) || n <= 0)
